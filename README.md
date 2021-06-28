@@ -11,4 +11,4 @@
             - Time
 ```
 
-Works only on : __Windows__;__MacOS__;__Linux__
+Works only on : __Windows__ ; __MacOS__ ; __Linux__
