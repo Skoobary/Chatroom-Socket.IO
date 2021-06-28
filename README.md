@@ -5,7 +5,6 @@
 
 
 #### Necessary modules are the following:
-:EMOJICODE:
 ```
             - Socket.IO
             - Threading
