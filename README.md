@@ -5,10 +5,11 @@
 
 
 #### Necessary modules are the following:
+:EMOJICODE:
 ```
-            * Socket.IO
-            * Threading
-            * Time
+            - Socket.IO
+            - Threading
+            - Time
 ```
 
 I really hope this github repository is helpful ;)
