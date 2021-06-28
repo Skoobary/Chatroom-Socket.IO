@@ -6,8 +6,8 @@
 I really hope this github repository is helpful ;)
 
 Necessary modules are the following:
-            -
-            -
-            -
-            -
-            -
+```
+            - Socket.IO
+            - Threading
+            - Time
+```
