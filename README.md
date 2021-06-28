@@ -11,4 +11,4 @@
             - Time
 ```
 
-I really hope this github repository is helpful ;)
+Works only on : __Windows__;__MacOS__;__Linux__
