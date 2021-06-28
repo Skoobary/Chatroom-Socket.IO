@@ -6,9 +6,9 @@
 
 #### Necessary modules are the following:
 ```
-            - Socket.IO
-            - Threading
-            - Time
+            * Socket.IO
+            * Threading
+            * Time
 ```
 
 I really hope this github repository is helpful ;)
